@@ -1,6 +1,6 @@
 #### Hi There! 👋
 1. 🚀 I'm a Software Engineer and Developer Advocate at @vandarpay, Ask me for help on our projects!
-2. 🌧 I re-wrote and maintain [Aloodak](https://github.com/WiGeeky/aloodak), a Telegram Bot reporting pollution in major Iranian cities [ (See in Action) ](https://t.me/aloodak]
+2. 🌧 I re-wrote and maintain [Aloodak](https://github.com/WiGeeky/aloodak), a Telegram Bot reporting pollution in major Iranian cities ([See in Action](https://t.me/aloodak])
 3. 📚 In my free time, I enjoy editing articles on Wikipedia and working on Wikidata.
 4. 💬 I'm open to collaborations on interesting software projects, get in touch through hey@mikey.ir
 
