@@ -1,8 +1,7 @@
-#### Hi There! 👋
-1. 🚀 I'm a Software Engineer, Technical Lead, and Developer Advocate. You can ask me for help on the projects I've been a part of.
-2. 🌧 I re-wrote and maintain [Aloodak](https://github.com/WiGeeky/aloodak), a Telegram Bot reporting pollution in major Iranian cities ([See in Action](https://t.me/aloodak))
-3. 📚 I can write software products in PHP (Laravel), Python (Django, Pure), and Golang!
-4. 💬 I'm open to collaborations on interesting software projects, get in touch via hey@mikey.ir
-
-
-if you like the projects I've worked on and want to support my work, consider contacting me for collaboration or hiring.
+## Hi There! 👋 I'm Mike. A passionate back-end software developer!
+🚀 6+ years of software development experience with PHP and Python.
+🔧 Experienced with designing, developing, and deploying microservice architectures.
+☁️ Familiar with CI/CD, Docker, Kubernetes, and cloud providers such as AWS and GCP.
+💼 Passionate about the maintenance and modernization of large, sensitive enterprise applications using Domain-Driven Design.
+🛠️ Familiar with building technologies using core frameworks such as Laravel, Symfony, Django, Flask, and FastAPI. As well as using MySQL, Elasticsearch, Redis, Git, RabbitMQ, and MongoDB!
+✅ Advocate for software quality testing at every level, highly experienced in integrating tools such as PHPUnit and pytest to suit the needs of every program. Taking a Test-Driven Development approach whenever possible.
